@@ -1,9 +1,3 @@
-PythonHomeworkProjects
-======================
-
-Python homework projects submitted at UCSC Silicon Valley extension campus (1Q 2012)
-
-
 python IntegrationLevelTesting.py
 
 Runs integration level tests of Python currency exchange program which demonstrates currency conversion
