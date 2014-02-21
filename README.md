@@ -1,4 +1,4 @@
-Uses Python class definitions to implement a currency exchange program.
+Uses Python object-oriented techniques (classes and methods) to implement a stand-alone currency exchange program.
 
 
 
