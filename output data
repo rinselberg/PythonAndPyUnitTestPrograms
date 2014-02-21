@@ -1,0 +1,42 @@
+"""Copy and paste of program tests
+steven-inselbergs-computer:driver Steve$ python hw10_2.py
+Enter directory name: palindromes
+/Users/Steve/PythonClass/application/driver/palindromes
+empty.txt
+one.txt
+directory: palindromes
+two.txt
+/Users/Steve/PythonClass/application/driver/palindromes/palindromes
+three.txt
+murderforajarofredrum in 3 files
+3443 in 2 files
+onacloverifaliveeruptsavastpureevilafirevolcano in 2 files
+asantaatnasa in 1 files
+nzy33yzn in 1 files
+123454321 in 1 files
+steven-inselbergs-computer:driver Steve$
+"""
+
+"""Copy and paste of directory tree
+steven-inselbergs-computer:PythonClass Steve$ python lab09_3.py
+Tree to start at which directory? application
+ /application
+ |-- /driver
+ |   |-- hw10_2.py
+ |   |-- hw10_2.py~
+ |   |-- /palindromes
+ |  |   |-- empty.txt
+ |  |   |-- one.txt
+ |  |   |-- /palindromes
+ |  |  |   |-- three.txt
+ |  |   |-- two.txt
+ |-- /utils
+ |   |-- __init__.py
+ |   |-- __init__.pyc
+ |   |-- hw10_1.py
+ |   |-- hw10_1.pyc
+ |   |-- hw10_1.py~
+
+5 directories, 11 files
+steven-inselbergs-computer:PythonClass Steve$ 
+"""
