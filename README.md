@@ -1,3 +1,7 @@
+Uses Python class definitions to implement a currency exchange program.
+
+
+
 python IntegrationLevelTesting.py
 
 Runs integration level tests of Python currency exchange program which demonstrates currency conversion
